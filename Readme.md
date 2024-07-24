@@ -62,8 +62,3 @@ Check out the live demo of my portfolio [here](https://portfolio-eight-zeta-22.v
 
 Feel free to reach out to me via email at [mail@hotmail.com](mailto:mail@hotmail.com) or connect with me on [GitHub](https://github.com/Mohamed-aldabaan).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
