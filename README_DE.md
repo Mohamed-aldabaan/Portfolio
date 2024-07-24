@@ -41,3 +41,16 @@ Kontaktinformationen einschließlich Standort, GitHub-Link und E-Mail-Adresse. E
 - [FontAwesome](https://fontawesome.com/)
 - Google Fonts
 
+## Nutzung
+
+1. Repository klonen:
+    ```sh
+    git clone https://github.com/Mohamed-aldabaan/portfolio.git
+    ```
+2. In das Projektverzeichnis wechseln:
+    ```sh
+    cd portfolio
+    ```
+3. `index.html` in deinem bevorzugten Webbrowser öffnen.
+
+## Live-Demo
