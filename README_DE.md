@@ -29,3 +29,7 @@ Eine Aufschlüsselung meiner Fähigkeiten mit Fortschrittsbalken, die meine Kenn
 Eine Präsentation meiner Projekte mit Bildern, Beschreibungen und Links zu Live-Versionen oder Repositories.
 
 ### Contact
+
+Kontaktinformationen einschließlich Standort, GitHub-Link und E-Mail-Adresse. Ein Kontaktformular ist vorhanden, damit Besucher Nachrichten direkt senden können.
+
+## Verwendete Technologien
