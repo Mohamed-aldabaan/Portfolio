@@ -21,3 +21,7 @@ Die Startseite stellt mich und meinen Beruf vor, zeigt ein großes Header-Bild u
 Dieser Abschnitt enthält allgemeine Informationen über mich, einschließlich meines Namens, Alters, Standorts, Ausbildung, aktuellen Lernschwerpunkts, Verfügbarkeit als Freelancer, Sprachen und Hobbys.
 
 ### Skills
+
+Eine Aufschlüsselung meiner Fähigkeiten mit Fortschrittsbalken, die meine Kenntnisse in Bereichen wie Webentwicklung, CAD-Programme, Photoshop, InDesign und Rendering-Programme anzeigen.
+
+### Projekte
