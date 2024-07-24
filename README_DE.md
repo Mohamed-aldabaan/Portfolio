@@ -20,4 +20,4 @@ Die Startseite stellt mich und meinen Beruf vor, zeigt ein großes Header-Bild u
 ### About
 Dieser Abschnitt enthält allgemeine Informationen über mich, einschließlich meines Namens, Alters, Standorts, Ausbildung, aktuellen Lernschwerpunkts, Verfügbarkeit als Freelancer, Sprachen und Hobbys.
 
-### Fähigkeiten
+### Skills
