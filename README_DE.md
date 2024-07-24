@@ -12,3 +12,9 @@ Willkommen auf meiner persönlichen Portfolio-Website. Diese Website präsentier
 - **Kontaktformular**: Ein Formular, damit Besucher mir direkt von der Website aus eine Nachricht senden können.
 
 ## Abschnitte
+
+### Home
+
+Die Startseite stellt mich und meinen Beruf vor, zeigt ein großes Header-Bild und eine kurze Einführung.
+
+### About
