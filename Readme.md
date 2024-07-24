@@ -60,5 +60,5 @@ Check out the live demo of my portfolio [here](https://portfolio-eight-zeta-22.v
 
 ## Contact
 
-Feel free to reach out to me via email at [mail@hotmail.com](mailto:mail@hotmail.com) or connect with me on [GitHub](https://github.com/Mohamed-aldabaan).
+Feel free to reach out to me via email at [mail](mohammad.m.d@hotmail.com) or connect with me on [GitHub](https://github.com/Mohamed-aldabaan).
 
