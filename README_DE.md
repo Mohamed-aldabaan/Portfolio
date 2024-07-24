@@ -54,3 +54,7 @@ Kontaktinformationen einschließlich Standort, GitHub-Link und E-Mail-Adresse. E
 3. `index.html` in deinem bevorzugten Webbrowser öffnen.
 
 ## Live-Demo
+
+Schau dir die Live-Demo meines Portfolios [hier](https://your-live-demo-link.com) an.
+
+## Kontakt
