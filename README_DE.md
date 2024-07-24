@@ -58,3 +58,7 @@ Kontaktinformationen einschließlich Standort, GitHub-Link und E-Mail-Adresse. E
 Schau dir die Live-Demo meines Portfolios [hier](https://portfolio-eight-zeta-22.vercel.app/) an.
 
 ## Kontakt
+
+Du kannst mich gerne per E-Mail unter [E-Mail](mohammad.m.d@hotmail.com) erreichen oder dich auf [GitHub](https://github.com/Mohamed-aldabaan) mit mir verbinden.
+
+## Lizenz
