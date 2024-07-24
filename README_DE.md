@@ -33,3 +33,11 @@ Eine Präsentation meiner Projekte mit Bildern, Beschreibungen und Links zu Live
 Kontaktinformationen einschließlich Standort, GitHub-Link und E-Mail-Adresse. Ein Kontaktformular ist vorhanden, damit Besucher Nachrichten direkt senden können.
 
 ## Verwendete Technologien
+
+- HTML5
+- CSS3
+- JavaScript
+- [W3.CSS](https://www.w3schools.com/w3css/)
+- [FontAwesome](https://fontawesome.com/)
+- Google Fonts
+
