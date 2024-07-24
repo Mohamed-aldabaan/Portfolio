@@ -25,3 +25,7 @@ Dieser Abschnitt enthält allgemeine Informationen über mich, einschließlich m
 Eine Aufschlüsselung meiner Fähigkeiten mit Fortschrittsbalken, die meine Kenntnisse in Bereichen wie Webentwicklung, CAD-Programme, Photoshop, InDesign und Rendering-Programme anzeigen.
 
 ### Projekte
+
+Eine Präsentation meiner Projekte mit Bildern, Beschreibungen und Links zu Live-Versionen oder Repositories.
+
+### Contact
